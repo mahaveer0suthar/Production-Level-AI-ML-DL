@@ -1,4 +1,4 @@
-# :bulb: A Guide to Production Level Deep Learning :clapper: :scroll:  :ferry:
+# :bulb: A Guide to Production AI ML DL
 [NOTE: This repo is still under development, and any feedback to make it better is welcome :blush: ]
 
 Deploying deep learning models in production can be challenging, as it is far beyond training models with good performance. Several distinct components need to be designed and developed in order to deploy a production level deep learning system (seen below):
